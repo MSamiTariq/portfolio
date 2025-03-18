@@ -1,1 +1,125 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Muhammad Sami Tariq",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Muhammad Sami Tariq - curious",
+  "headerTaglineThree": "designer and devloper",
+  "headerTaglineFour": " based in Karachi, Pakistan.",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": false,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/MSamiTariq"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/sami-tariq-709b101b1/"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://twitter.com/samitariq12"
+    },
+    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
+    { "id": "5", "title": "Email", "link": "mailto:samitariq40@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Interactive Demo & Guided Tour Tool with Chrome Extension",
+      "description": "Developed an interactive product demo and tutorial tool, similar to Navattic, enabling users to capture HTML frames and overlay tooltips to create guided walkthroughs. Built a dedicated Chrome extension to seamlessly capture and process HTML structures, allowing users to annotate and save interactive elements for onboarding experiences.",
+      "imageSrc": "https://i.postimg.cc/yYnprW7w/uniswap1.png",
+      "url": "https://uniswap.university/clickable-demos"
+    },
+    {
+      "id": "2",
+      "title": "Uniswap Education Hub – Interactive Learning for DeFi Users",
+      "description": "Designed and developed an educational platform for Uniswap, featuring in-depth courses, interactive guides, structured learning timelines, short video tutorials, and hands-on clickable demos. The platform aimed to simplify decentralized finance (DeFi) concepts, providing users with an engaging and structured learning experience to navigate Uniswap effectively.",
+      "imageSrc": "https://i.postimg.cc/Qtd5nNSd/uniswap2.png",
+      "url": "https://uniswap.university/"
+    },
+    {
+      "id": "3",
+      "title": "Fruit Freshness Detection Application",
+      "description": "Designed a react-native mobile app for detecting fruit and vegetable freshness using two self-trained neural networks hosted on AWS for categorization and freshness detection. The collected dataset consists of 10k images and 26 classes",
+      "imageSrc": "https://www.mdpi.com/sensors/sensors-22-08192/article_deploy/html/images/sensors-22-08192-g010.png",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "4",
+      "title": "Compound Learning Hub – Bite-Sized DeFi Education",
+      "description": "Built an educational platform for Compound, focusing on tidbits—concise, easily digestible insights that simplify complex DeFi concepts. The platform included structured courses, interactive guides, short video tutorials, and engaging clickable demos to help users quickly grasp key aspects of lending, borrowing, and yield optimization on Compound.",
+      "imageSrc": "https://i.postimg.cc/RFrPyDqY/compound.png",
+      "url": "https://compound.education/"
+    },
+    {
+      "id": "5",
+      "title": "BeraTrax: Simplifying DeFi Interactions on Berachain",
+      "description": "As a Full Stack Developer at BeraTrax, I contributed to the development of a mobile-first decentralized finance (DeFi) platform tailored for the Berachain ecosystem. BeraTrax offers users an intuitive interface to engage with DeFi services, including seamless swaps, liquidity provision, and yield optimization. The platform emphasizes user-friendly design, real-time performance insights, and robust security measures to enhance the DeFi experience.",
+      "imageSrc": "https://docs.beratrax.com/~gitbook/image?url=https%3A%2F%2F1098180689-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FXxWYJluyr2jWTusirIfC%252Fuploads%252FUCS23KKf4AaNIFInl3je%252F3_dashboard_post_signin.jpg%3Falt%3Dmedia%26token%3D1ebda3f3-30a2-42c0-945d-4b8f5ee97274&width=300&dpr=2&quality=100&sign=9127da16&sv=2",
+      "url": "https://app.beratrax.com/"
+    },
+    {
+      "id": "6",
+      "title": "Governance Tooling & Automation for Compound Protocol",
+      "description": "Led the development of governance tooling and automation to enhance decision-making in the Compound Protocol. A key initiative focused on streamlining market parameter updates by introducing a parallel process, reducing friction in governance. This allowed the community to shift focus towards strategic decisions, such as new partnerships and asset integrations, improving the efficiency and agility of the protocol’s governance framework.",
+      "imageSrc": "https://i.postimg.cc/8kr4kZkL/compound.png",
+      "url": "https://www.tally.xyz/gov/compound/proposal/374?govId=eip155:1:0xc0Da02939E1441F497fd74F78cE7Decb17B66529"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Web Development",
+      "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks."
+    },
+    {
+      "id": "2",
+      "title": "Blockchain Development",
+      "description": "Worked on building decentralized applications and smart contracts on Ethereum and other blockchain platforms."
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "4",
+      "title": "3D Design",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "aboutpara": "I'm Muhammad Sami Tariq, a passionate Full Stack Developer with experience in building scalable web applications, robust backend architectures, and modern frontend frameworks. My expertise spans across React, Next.js, FastAPI, Node.js, and Dockerized microservices, enabling me to develop high-performance solutions that optimize efficiency and user experience.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Go"],
+    "frameworks": ["React", "Typescript", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}
